@@ -54,7 +54,7 @@ int main()
                     }
                     else
                     {
-                        cout << ".\nChildPID: " << getpid() << endl;
+                        cout << "." << endl;
                     }
                 }
             }
